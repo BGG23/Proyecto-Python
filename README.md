@@ -24,5 +24,6 @@
 ????
 
 ## Diseño del Mapa
-![Diagrama del juego](https://user-images.githubusercontent.com/91567318/212100935-b5f8da4a-5708-4c74-a461-77c1ad94761c.png)
+![imagen mapa](https://user-images.githubusercontent.com/91567318/212129973-94195d63-5096-49d6-b043-5be997ca3225.png)
+
 ---
