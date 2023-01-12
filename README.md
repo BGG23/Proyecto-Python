@@ -13,5 +13,5 @@
 
 ## Diseño del juego
 
-![Diagrama del juego](https://user-images.githubusercontent.com/91567318/210117840-1886faa4-f703-45c9-b384-a66745477aa9.png)
+![Diagrama del juego](https://user-images.githubusercontent.com/91567318/212100935-b5f8da4a-5708-4c74-a461-77c1ad94761c.png)
 ---
