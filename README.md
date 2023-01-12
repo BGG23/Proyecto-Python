@@ -10,7 +10,7 @@
 · El desarrollo del proyecto se dividirá en cuatro fases, la fase de investigación y desarrollo conceptual, la fase de traslado en entornos de programa, la fase de codificación y creación de funciones, y finalmente la fase de pruebas y corrección de errores.
 
 ### IDC (Investigación y desarrollo conceptual)
-· En esta fase procedemos a buscar información sobre el funcionamiento basico del juego, teniendo en cuenta que este proyecto fue creado desde 0 nos basamos un poco en la idea esencial de la saga de juegos comunmente conocida ***Zelda***, nos basamos en la idea de crear un mapa en el cual se encuentran ciertos enemigos y ciertar recompensas para el juegador.
+· En esta fase procedemos a buscar información sobre el funcionamiento básico del juego, teniendo en cuenta que este proyecto fue creado desde 0 nos basamos un poco en la idea esencial de la saga de juegos comúnmente conocida ***Zelda***, nos basamos en la idea de crear un mapa en el cual se encuentran ciertos enemigos y ciertas recompensas para el jugador.
 
 ### TEP (Traslado a entorno de programa)
 ????
