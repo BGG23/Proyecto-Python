@@ -1,10 +1,10 @@
-# Catacumbas
+# Catacumba
 #### Belén Gamero García y Edgar López Hernández
 
 ## Objetivos
 · El objetivo de este proyecto es la creación de un juego de mesa en entorno texto mediante la cooperación del equipo de desarrollo.
 
-· El juego escogido es una Aventura Gráfica llamada "Catacumbas" que consta con elección de Personaje (con habilidades diferentes + un inventarios), Enemigos, Botines, Acertijos, Objetos, Portales
+· El juego escogido es una Aventura Gráfica llamada "Catacumba" que consta con elección de Personaje (con habilidades diferentes + un inventarios), Enemigos, Botines, Acertijos, Objetos, Portales
 
 ## Planificación
 · El desarrollo del proyecto se dividirá en cuatro fases, la fase de investigación y desarrollo conceptual, la fase de traslado en entornos de programa, la fase de codificación y creación de funciones, y finalmente la fase de pruebas y corrección de errores.
