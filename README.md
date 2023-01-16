@@ -4,7 +4,7 @@
 ## Objetivos
 · El objetivo de este proyecto es la creación de un juego de mesa en entorno texto mediante la cooperación del equipo de desarrollo.
 
-· El juego escogido es una Aventura Gráfica llamada "*Catacumbas*" que consta con Enemigos, Botines, Acertijos, Objetos especiales y Portales, donde el jugador consta de un inventario.
+· El juego escogido es una Aventura Gráfica llamada "Catacumbas" que consta con elección de Personaje (con habilidades diferentes + un inventarios), Enemigos, Botines, Acertijos, Objetos, Portales
 
 ## Planificación
 · El desarrollo del proyecto se dividirá en cuatro fases, la fase de investigación y desarrollo conceptual, la fase de traslado en entornos de programa, la fase de codificación y creación de funciones, y finalmente la fase de pruebas y corrección de errores.
@@ -24,6 +24,6 @@
 ????
 
 ## Diseño del Mapa
-![imagen mapa](https://user-images.githubusercontent.com/91567318/212129973-94195d63-5096-49d6-b043-5be997ca3225.png)
+![imagen mapa](https://user-images.githubusercontent.com/91567318/212721393-586852ce-3da6-491f-9f3f-64e9a41b99fd.png)
 
 ---
