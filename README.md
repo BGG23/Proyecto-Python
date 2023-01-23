@@ -28,6 +28,6 @@ pip install wxPython
 · Seguidamente, se creará el pseudocódigo y este deberá modificarse para adaptarse al lenguaje de programación en cuestión, en este caso Python 3, para ello se recogerán todos los requisitos redactadas y se pasarán a un lenguaje más técnico describiendo qué función interna llevarán a cabo sobre el programa principal.
 
 ### CCF (Codificación y creación de funciones)
-· En esta fase es donde se creará el código de la aplicación, es una de las fases más importantes y duraderas del proyecto, en está se creará un archivo principal que recogerá todas las funciones relacionadas con el juego y su estructura. En otros dos archivos aparte se irán desarrollando en paralelo distintos menús o subprocesos que finalmente se fusionarán en el archivo principal mediante una adaptación de las variables y valores para que todo encaje correctamente.
+· En esta fase es donde se creará el código de la aplicación, es una de las fases más importantes y duraderas del proyecto, en está se creará un archivo principal (carpeta "pacman" el archivo ***pacman.pyw***) que recogerá todas las funciones relacionadas con el juego y su estructura.
 
 ---
