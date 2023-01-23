@@ -4,8 +4,8 @@
 ## Objetivos
 · El objetivo de este proyecto es la creación de un juego de mesa en entorno texto mediante la cooperación del equipo de desarrollo.
 
-·El juego escogido es una el "Pac-Man" que contiene laberintos donde debe comer puntos pequeños, puntos mayores y otros premios con forma de frutas y otros objetos. 
-El objetivo del personaje es comer todos los puntos de la pantalla, momento en el que se pasa al siguiente nivel o pantalla.
+·El juego escogido es "pac-man" que contiene laberintos donde debe comer puntos pequeños, puntos mayores y otros premios con forma de frutas y otros objetos. 
+El objetivo del personaje es comer todos los puntos de la pantalla, momento en el que se pasa al siguiente nivel o pantalla. Sin embargo, cuatro fantasmas recorren el laberinto para intentar capturar a Pac-Man. Estos fantasmas son, respectivamente, de colores rojo, rosa, cian y naranja.
 
 ## Planificación
 · El desarrollo del proyecto se dividirá en cuatro fases, la fase de investigación y desarrollo conceptual, la fase de traslado en entornos de programa, la fase de codificación y creación de funciones, y finalmente la fase de pruebas y corrección de errores.
