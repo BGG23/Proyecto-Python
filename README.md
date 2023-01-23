@@ -14,6 +14,11 @@ El objetivo del personaje es comer todos los puntos de la pantalla, momento en e
 · En esta fase procedemos a buscar información sobre el funcionamiento básico del juego, despues de un tiempo nos dimos cuenta de que se nos complicaba la idea original. 
 Decidimos investigar otras ideas y nos inclinamos más por el juego "Pac-Man" e intentamos mantener la idea del juego original.
 
+· En el código utilizaremos "freegames" así que se debe instalar antes de todo. con este comando en la terminal ya bastaría.
+```
+python -m pip install freegames
+```
+
 ### TEP (Traslado a entorno de programa)
 · Seguidamente, se creará el pseudocódigo y este deberá modificarse para adaptarse al lenguaje de programación en cuestión, en este caso Python 3, para ello se recogerán todos los requisitos redactadas y se pasarán a un lenguaje más técnico describiendo qué función interna llevarán a cabo sobre el programa principal.
 
