@@ -20,14 +20,10 @@ Decidimos investigar otras ideas y nos inclinamos más por el juego "Pac-Man" e 
 ```
 python -m pip install freegames
 ```
-#### "wxPython"
-```
-pip install wxPython
-```
 ### TEP (Traslado a entorno de programa)
 · Seguidamente, se creará el pseudocódigo y este deberá modificarse para adaptarse al lenguaje de programación en cuestión, en este caso Python 3, para ello se recogerán todos los requisitos redactadas y se pasarán a un lenguaje más técnico describiendo qué función interna llevarán a cabo sobre el programa principal.
 
 ### CCF (Codificación y creación de funciones)
-· En esta fase es donde se creará el código de la aplicación, es una de las fases más importantes y duraderas del proyecto, en está se creará un archivo principal (carpeta "pacman" el archivo ***pacman.pyw***) que recogerá todas las funciones relacionadas con el juego y su estructura.
+· En esta fase es donde se creará el código de la aplicación, es una de las fases más importantes y duraderas del proyecto, en está se creará un archivo principal (pacman.py) que recogerá todas las funciones relacionadas con el juego y su estructura.
 
 ---
