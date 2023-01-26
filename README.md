@@ -24,6 +24,6 @@ python -m pip install freegames
 · Seguidamente, se creará el pseudocódigo y este deberá modificarse para adaptarse al lenguaje de programación en cuestión, en este caso Python 3, para ello se recogerán todos los requisitos redactadas y se pasarán a un lenguaje más técnico describiendo qué función interna llevarán a cabo sobre el programa principal.
 
 ### CCF (Codificación y creación de funciones)
-· En esta fase es donde se creará el código de la aplicación, es una de las fases más importantes y duraderas del proyecto, en está se creará un archivo principal (pacman.py) que recogerá todas las funciones relacionadas con el juego y su estructura.
+· En esta fase es donde se creará el código de la aplicación, es una de las fases más importantes y duraderas del proyecto, en está se creará un archivo principal (main.py) que recogerá todas las funciones relacionadas con el juego y su estructura.
 
 ---
