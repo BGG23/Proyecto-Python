@@ -1,11 +1,5 @@
 """Pacman"""
-"""
-1.Importar librerias Random, Turtle y Freegames
-2.
-3.
-4.
-5.
-"""
+
 
 from random import choice
 from turtle import *
