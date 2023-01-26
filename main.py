@@ -1,6 +1,5 @@
 """Pacman"""
 
-
 from random import choice
 from turtle import *
 
