@@ -44,7 +44,7 @@ casillas = [
 
 
 def cuadado(x, y):
-    """Dibuja un cuadrado usando la ruta en (x, y)."""
+    """Dibuja un cuadrado usando la ruta (x, y)."""
     camino.up()
     camino.goto(x, y)
     camino.down()
@@ -58,7 +58,7 @@ def cuadado(x, y):
 
 
 def desplazamiento(point):
-    """Devuelve el desplazamiento del punto en casillas."""
+    """Devuelve el desplazamiento del punto."""
     x = (floor(point.x, 20) + 200) / 20
     y = (180 - floor(point.y, 20)) / 20
     index = int(x + y * 20)
@@ -66,7 +66,7 @@ def desplazamiento(point):
 
 
 def validador(point):
-    """Devuelve True si el punto es válido en casillas."""
+    """Devuelve True si el punto es válido."""
     index = desplazamiento(point)
 
     if casillas[index] == 0:
@@ -146,11 +146,11 @@ def move():
         if abs(pacman - point) < 20:
             return
 
-    ontimer (move, 100)
+    ontimer(move, 100)
 
 
 def cambiar(x, y):
-    """Cambiar el pacman si es true"""
+    """Cambia el aim del pacman pacman si se puede."""
     if validador(pacman + vector(x, y)):
         aim.x = x
         aim.y = y
@@ -163,10 +163,10 @@ movimiento.goto(160, 160)
 movimiento.color('white')
 movimiento.write(puntos['puntuacion'])
 listen()
-onkey(lambda: cambiar(5, 0), 'Right')
-onkey(lambda: cambiar(-5, 0), 'Left')
-onkey(lambda: cambiar(0, 5), 'Up')
-onkey(lambda: cambiar(0, -5), 'Down')
+onkey(lambda: cambiar(5, 0), 'd')
+onkey(lambda: cambiar(-5, 0), 'a')
+onkey(lambda: cambiar(0, 5), 'w')
+onkey(lambda: cambiar(0, -5), 's')
 mapeado()
 move()
 done()
